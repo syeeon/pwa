@@ -1,7 +1,7 @@
- {
-    "name" : "Hello, PWA -v1",
-    "short_name" : "PWA", 
-    "description" : "start for PWA",
+{
+    "name" : "PORSCHE",
+    "short_name" : "PORSCHE", 
+    "description" : "porsche korea",
     "scope" : ".",
     "start_url" : "./",
     "display" : "fullscreen",
@@ -10,24 +10,20 @@
     "background_color" : "#ffffff",
     "icons" : [
         {
-            "src" : "images/icons/android-chrome-512x512.png",
+            "src" : "img/icons/android-chrome-512x512.png",
             "sizes" : "512x512",
             "type" : "image/png"
-        }
-    ],
-    "shortcuts" : [
+        },
         {
-    "name" : "Hello, PWA", 
-    "short_name" : "PWA", 
-    "description" : "start for PWA",
-    "url" : "./",
-    "icons" : [
+            "src" : "img/icons/android-chrome-32x32.png",
+            "sizes" : "32x32",
+            "type" : "image/png"
+        },
         {
-            "src" : "images/icons/android-chrome-512x512.png",
-            "sizes" : "512x512",
+            "src" : "img/icons/android-chrome-16x16.png",
+            "sizes" : "16x16",
             "type" : "image/png"
         }
     ]
-    }
-]
+
  }
